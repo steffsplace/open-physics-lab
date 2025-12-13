@@ -1,26 +1,27 @@
-# fields-and-flows
-Independent lab: electrodynamics + fluid vortices + energy/control automation (Docker/Proxmox).
-# Projects
+# Fields & Flows
 
-## Electrodynamics (primary)
-- Electrodynamics lab notes & experiments — starting
-- Measurement & instrumentation practices — starting
+This repository is the entry point to my work as an independent college educator (GBS SG)
+exploring **electrodynamics, physical flow systems, and control software**.
 
-## Vortex / fluid mechanics
-- Hyperbolic vortex lab — starting
+My primary interest is **electrodynamics** — field geometry, coupling, resonance,
+and measurement — alongside **vortex-driven flow systems** and the software
+infrastructure required to run, control, and observe real systems.
 
-## Energy & automation
-- Heating control (C++, JSON) — active
-- KNX integration — active
-- Electricity & solar power management — active/planned
-- Charging station management — active/planned
+The common theme across all projects is **flow**:
+- flow of energy
+- flow of information
+- flow of physical media
 
-## Systems engineering
-- Docker-based services — active
-- Node-RED flows — active
-- Proxmox deployment patterns — active
+## Areas of work
+- Electrodynamics (primary focus)
+- Vortex and fluid mechanics
+- Energy management and automation
+- Control and systems engineering (Docker, Node-RED, Proxmox)
 
-## Multimedia
-- Music streaming — maintenance
-- Alexa integration — maintenance
-- Surveillance management — active
+This repository serves as:
+- an index to projects
+- a roadmap for future work
+- a reference for collaboration
+
+See [PROJECTS.md](./PROJECTS.md) for details.
+
