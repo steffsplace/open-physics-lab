@@ -1,27 +1,58 @@
-# Fields & Flows
+# Open Physics Lab
 
-This repository is the entry point to my work as an independent college educator (GBS SG)
-exploring **electrodynamics, physical flow systems, and control software**.
+An open and collaborative workspace for applied and experimental physics, 
+systems engineering, and the study of physical flow systems.
 
-My primary interest is **electrodynamics** — field geometry, coupling, resonance,
-and measurement — alongside **vortex-driven flow systems** and the software
-infrastructure required to run, control, and observe real systems.
+This repository serves as the entry point to my work as an independent college 
+educator (GBS SG), together with projects developed with students and collaborators.
 
-The common theme across all projects is **flow**:
-- flow of energy
-- flow of information
-- flow of physical media
+The focus lies on understanding, building, measuring, and documenting real physical 
+and technical systems — from field theory and electrodynamics to automation, 
+energy systems, and computational infrastructure.
 
-## Areas of work
-- Electrodynamics (primary focus)
-- Vortex and fluid mechanics
-- Energy management and automation
-- Control and systems engineering (Docker, Node-RED, Proxmox)
+---
 
-This repository serves as:
-- an index to projects
-- a roadmap for future work
-- a reference for collaboration
+## Core Themes
 
-See [PROJECTS.md](./PROJECTS.md) for details.
+### 🔬 Electrodynamics (primary focus)
+Field geometry, coupling, resonance, and measurement.
+Experimental work, instrumentation practice, and theoretical foundations.
 
+### 🌪️ Vortex & Flow Systems
+Vortex dynamics, fluid mechanics, and the study of physical transport processes.
+
+### ⚡ Energy & Automation
+Heating control, KNX integration, solar power management, and charging infrastructure.
+
+### 🧰 Systems Engineering
+Docker-based services, Node-RED flows, Proxmox deployment patterns, and operational infrastructure.
+
+---
+
+## Working Principles
+
+- classical physics
+- reproducible experiments
+- clear documentation
+- open and respectful discussion
+
+---
+
+## Structure of this Repository
+
+This repository acts as:
+
+- an index to active and planned projects  
+- a conceptual and educational knowledge base  
+- a roadmap for future work  
+- a reference point for collaboration
+
+Detailed project descriptions can be found in  
+**[PROJECTS.md](./PROJECTS.md)**.
+
+---
+
+## Collaboration
+
+Collaboration is welcome for a limited number of motivated contributors.
+Please see **[COLLABORATION.md](./COLLABORATION.md)** for scope, expectations, and guidelines.
