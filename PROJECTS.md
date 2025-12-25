@@ -1,24 +1,75 @@
 # Projects
 
-## Electrodynamics (primary)
-- Electrodynamics lab notes & experiments — starting
-- Measurement & instrumentation practices — starting
+This document provides an overview of ongoing and planned work within the
+Open Physics Lab. It acts as a central index to concrete projects, experimental
+activities, and system implementations.
 
-## Vortex / fluid mechanics
-- Hyperbolic vortex lab — starting
+Project descriptions are intentionally concise here; detailed documentation
+is maintained within the corresponding discipline directories and individual
+project repositories.
 
-## Energy & automation
-- Heating control (C++, JSON) — active
-- KNX integration — active
-- Electricity & solar power management — active/planned
-- Charging station management — planned
+---
 
-## Systems engineering
-- Docker-based services — active
-- Node-RED flows — active
-- Proxmox deployment patterns — active
+## Electrodynamics (primary focus)
 
-## Multimedia
-- Music streaming — maintenance
-- Alexa integration — maintenance
-- Surveillance management — active
+- Electrodynamics laboratory notes and experiments — *starting*  
+- Measurement and instrumentation practices — *starting*
+
+Related conceptual material is maintained in  
+**`docs/electrodynamics.md`**.
+
+---
+
+## Vortex & Fluid Mechanics
+
+- Hyperbolic vortex laboratory — *starting*
+
+---
+
+## Energy & Automation
+
+- Heating control (C++, JSON-based systems) — *active*  
+- KNX integration — *active*  
+- Electrical and solar power management — *active / planned*  
+- Charging station management — *planned*
+
+Related engineering documentation is maintained in  
+**`energy/README.md`**.
+
+---
+
+## Systems Engineering
+
+- Docker-based service environments — *active*  
+- Node-RED automation workflows — *active*  
+- Proxmox deployment patterns — *active*
+
+Related engineering documentation is maintained in  
+**`systems/README.md`**.
+
+---
+
+## Control & Automation
+
+- Networked control systems — *active*  
+- Feedback and regulation experiments — *active*
+
+Related engineering documentation is maintained in  
+**`control/README.md`**.
+
+---
+
+## Multimedia & Infrastructure
+
+- Music streaming systems — *maintenance*  
+- Voice assistant integration — *maintenance*  
+- Surveillance and monitoring systems — *active*
+
+---
+
+## Project Status Legend
+
+- **starting** — early-stage exploration and setup  
+- **active** — ongoing development and operation  
+- **planned** — defined but not yet implemented  
+- **maintenance** — stable systems under upkeep
