@@ -8,4 +8,7 @@ are maintained in the top-level `docs/` directory:
 - historical sources
 - miscellaneous references
 
-This folder focuses on project-level organization.
+This folder focuses on project-level organization and implementation of
+physics-related work, while conceptual material is maintained in the top-level
+`docs/` directory.
+
