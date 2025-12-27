@@ -28,7 +28,8 @@ Related conceptual material is maintained in
 
 ## Energy & Automation
 
-- Heating control (C++, JSON-based systems) — *active*  
+- - Heating control (Portenta H7, MQTT) — *active*  
+  - Firmware / core project: https://github.com/steffsplace/HeatingController_MQTT
 - KNX integration — *active*  
 - Electrical and solar power management — *active / planned*  
 - Charging station management — *planned*
