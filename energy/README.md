@@ -43,6 +43,11 @@ Current and planned work includes:
 Related implementations and system designs are documented in the corresponding
 project repositories referenced in **[PROJECTS.md](../PROJECTS.md)**.
 
+
+## Implementations
+
+- Heating Controller (Portenta H7, C++, MQTT): https://github.com/steffsplace/HeatingController_MQTT
+
 ---
 
 ## Methodological Principles
