@@ -76,6 +76,8 @@ Control and automation patterns used across domains are documented in
 Related repositories:
 - Heating Controller (Portenta H7, C++, MQTT): https://github.com/steffsplace/HeatingController_MQTT
 - Automation / UI (Node-RED): https://github.com/steffsplace/HeatingController_NodeRED
+- Solar Monitoring (Node-RED): https://github.com/steffsplace/Solar_Monitoring_NodeRED
+- Charging Load Management (Node-RED): https://github.com/steffsplace/Charging_LoadMgmt_NodeRED
 
 ---
 
