@@ -28,19 +28,30 @@ Related conceptual material is maintained in
 
 ## Energy & Automation
 
-- Heating control (Portenta H7, MQTT) — *active*  
-  - Embedded firmware (C++ / Portenta H7): https://github.com/steffsplace/HeatingController_MQTT  
-  - Automation & UI (Node-RED): https://github.com/steffsplace/HeatingController_NodeRED  
+### Heating Control — *active*
 
-- KNX integration — *active*  
-  - Automation (Node-RED): https://github.com/steffsplace/KNX_Automation_NodeRED  
+- **Embedded firmware (C++ / Portenta H7)**  
+  https://github.com/steffsplace/HeatingController_MQTT
 
-- Electrical and solar power management — *active / planned*  
-- Charging station management — *active / planned*
+- **Automation & User Interface (Node-RED)**  
+  https://github.com/steffsplace/HeatingController_NodeRED
 
+### KNX Integration — *active*
+
+- **Automation (Node-RED)**  
+  https://github.com/steffsplace/KNX_Automation_NodeRED
+
+### Electrical & Solar Power Management — *active / planned*
+
+*(Node-RED–based automation and monitoring; repository to be created)*
+
+### Charging Infrastructure & Load Management — *active / planned*
+
+*(Node-RED–based control and orchestration; repository to be created)*
 
 Related engineering documentation is maintained in  
 **`energy/README.md`**.
+
 
 ---
 
