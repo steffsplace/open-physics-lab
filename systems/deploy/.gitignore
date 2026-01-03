@@ -1,0 +1,7 @@
+# never commit real env files
+.env
+**/.env
+
+# optional local-only folders
+data/
+volumes/
