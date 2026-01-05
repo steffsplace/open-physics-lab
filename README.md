@@ -3,8 +3,8 @@
 An open and collaborative workspace for applied and experimental physics, 
 systems engineering, and the study of physical flow systems.
 
-This repository serves as the entry point to my work as an independent college 
-educator (GBS SG), together with projects developed with students and collaborators.
+This repository serves as the entry point to my work as a college educator (GBS SG), 
+together with projects developed with students and collaborators.
 
 The focus lies on understanding, building, measuring, and documenting real physical 
 and technical systems — from field theory and electrodynamics to automation, 
