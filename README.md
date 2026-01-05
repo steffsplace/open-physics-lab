@@ -10,6 +10,9 @@ The focus lies on understanding, building, measuring, and documenting real physi
 and technical systems — from field theory and electrodynamics to automation, 
 energy systems, and computational infrastructure.
 
+Developed and maintained by
+Stefan Eberle — Senior Systems Engineer & Technical Educator
+
 ---
 
 ## Core Themes
