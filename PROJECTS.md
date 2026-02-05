@@ -83,6 +83,8 @@ Related engineering documentation is maintained in
 - Music streaming systems — *maintenance*
 - Voice assistant integration — *maintenance*
 - Surveillance and monitoring systems — *active*
+- Multimedia Transport — *active*
+- Multimedia - Human Interaction — *active*
 
 ---
 
